@@ -1,1 +1,2 @@
 archivesBaseName = 'spring-cloud-server'
+apply plugin:"war"

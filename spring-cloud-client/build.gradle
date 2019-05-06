@@ -1,1 +1,4 @@
 archivesBaseName = 'spring-cloud-client'
+println name
+println project.buildDir.getAbsolutePath()
+task resources << {}
